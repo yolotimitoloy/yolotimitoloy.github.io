@@ -313,3 +313,67 @@ footer{
  top: 0;    
  z-index: 999;
 }
+ul { 
+  margin: 2px 0 22px 17px;
+}
+
+ul li { 
+  list-style-type: circle;
+  margin: 0 0 0 0; 
+  padding: 0 0 4px 5px;
+}
+
+.bio-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto; 
+}
+
+.slideshow-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.custom-list li.book::before {
+  content: "📚 ";
+}
+
+.custom-list li {
+  list-style-type: none; 
+}
+
+.custom-list li.card::before {
+  content: "🎴 ";
+}
+
+.custom-list li.chess::before {
+  content: "♟️ ";
+}
+
+.custom-list li.Mahjong::before {
+  content: "🀄 ";
+}
+
+.custom-list li.game::before {
+  content: "🎮 ";
+}
+
+ul.images-pro {
+  width:600px;
+  height:800px;
+  overflow:hidden;
+  position:relative;
+  margin:0;
+  padding:0;
+} 
+
+ul.images-bio {
+  width:450px;
+  height:600px;
+  overflow:hidden;
+  position:relative;
+  margin:0;
+  padding:0;
+} 
