@@ -457,3 +457,20 @@ ul.images-bio {
   min-height: 150px;       
   resize: vertical;        
 }
+
+#logo{
+    background-color: rgb(2, 237, 250);
+    background-image: linear-gradient(to top, rgb(255, 119, 0),blue);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-style: italic;
+}
