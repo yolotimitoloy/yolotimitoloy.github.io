@@ -161,7 +161,7 @@
     .navbar_item{width: 100%;}
 
     .navbar_link{
-        text-align: center;
+        text-align: left;
         padding: 2rem;
         width: 100%;
         display:table;
