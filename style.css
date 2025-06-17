@@ -27,21 +27,31 @@
     margin: 0 auto;
     padding: 0 50px;
 }
-#navbar_logo{
-    background-color: blue;
-    background-image: linear-gradient(to top, blue,cyan);
-    background-size: 100%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-    display: flex;
+#navbar_logo {
+  background-image: linear-gradient(270deg, blue, cyan, purple);
+  background-size: 600% 600%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientShift 5s ease infinite;
+  display: flex;
+  font-size: 2rem;
     align-items: center;
     cursor: pointer;
     text-decoration: none;
-    font-size: 2rem;
     font-weight: bold;
     font-style: italic;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 .fa-gem{margin-right:0.5rem}
 
