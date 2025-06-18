@@ -26,3 +26,20 @@ These can help automate most aspect of the development process.
 
 6.
 technology stack used are html, css and javascript in visual studio code. Reason for using them are they are easier to learn to build a web page around in a short time
+
+
+part 3
+1.
+Pull request are a method of sudjesting and updating code from 1 branch to another. Developers can review code in each pull request and test the code before mergeing to the main branch, where it will be updated with the new code from the pull request. This helps with quality control of the code by ensuring code are indeed functioning before being published
+
+2.
+green mean line added to the code (in this case 34 line were added in the pull request) while red mean line removed or changed (in this case 42 lines were removed/updated with newer code)
+
+3.
+a. git merge is a command to merge changes from a branch to the head branch (develop), git merge test mean content in test will be merge and update into develop
+
+b. this error occur when git can not process which content from either develop or test to be merge, which is likely due to same line were change to different code in both branches
+
+c. 
+line 2-3 should be in develop while line 5 should be in test
+
