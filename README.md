@@ -2,6 +2,8 @@
 0.
 [Mini_project_AI_Declaration_Nok_Tim_Yeung_301349379.pdf](https://github.com/user-attachments/files/20788862/Mini_project_AI_Declaration_Nok_Tim_Yeung_301349379.pdf)
 
+MIT license: It allows other to see and use my portfolios while ensuring that I recieve proper acknowledgement for using it.
+
 
 1.
 Link to Project repo: https://github.com/yolotimitoloy/yolotimitoloy.github.io
