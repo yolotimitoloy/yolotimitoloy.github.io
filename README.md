@@ -11,7 +11,11 @@ Link to Project repo: https://github.com/yolotimitoloy/yolotimitoloy.github.io
 Link to the webpage: https://yolotimitoloy.github.io/
 
 Wireframe of the website:
-![Image](https://github.com/user-attachments/assets/06832b47-75fb-47af-8d6a-75a20099375f)
+![Image](https://github.com/user-attachments/assets/5db32b38-71b9-4e6f-808f-73552d03c4b7)
+
+![Image](https://github.com/user-attachments/assets/9d3f7c03-4ccb-488f-8599-90ff3e15fb75)
+
+![Image](https://github.com/user-attachments/assets/a4a7fcba-440e-49bf-bdc0-b0efd759553a)
 
 2.
 This is a basic persoanl website with 4 pages, being index(home), bio, project/achievement and contact
